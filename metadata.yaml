@@ -1,0 +1,35 @@
+_repo: A-History-of-Architecture-in-all-Countries-Volumes-1-and-2-3rd-ed-From-the-Earliest-Times-to-__55870
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fergusson, James
+    birthdate: 1808
+    deathdate: 1886
+    gutenberg_agent_id: '47440'
+    url: http://www.gutenberg.org/2009/agents/47440
+  editor:
+    agent_name: Spiers, Richard Phené
+    aliases:
+    - Spiers, Richard Phene
+    - Spiers, R. Phené (Richard Phené)
+    birthdate: 1838
+    deathdate: 1916
+    gutenberg_agent_id: '48555'
+    url: http://www.gutenberg.org/2009/agents/48555
+description: ''
+gutenberg_issued: '2017-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55870'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'NA'
+- !lcsh 'Architecture -- History'
+- GITenberg
+title: 'A History of Architecture in all Countries, Volumes 1 and 2, 3rd ed.
+
+  From the Earliest Times to the Present Day'
+url: http://www.gutenberg.org/ebooks/55870
